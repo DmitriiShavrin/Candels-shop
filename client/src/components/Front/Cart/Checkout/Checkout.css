@@ -1,0 +1,47 @@
+.link{
+    text-decoration: none;
+    border-bottom: 0;
+    color: grey;
+    font-size: 20px;
+}
+
+.link:hover{
+    color: grey;
+}
+
+.list{
+    width: 500px;
+}
+
+th, td{
+    text-align: center;
+}
+
+.inp{
+    width: 100px;
+    border: 1px solid grey;
+}
+
+.pict{
+    width: 80px;
+    height: auto;
+}
+
+.bt{
+    border: 1px solid grey;
+}
+
+.inp{
+    width: 200px;
+    border: 1px solid rgba(167, 166, 166, 0.938);
+}
+
+/* SUMM and DELIVERY */
+
+.summ_and_delivery{
+    border: 2px solid rgb(184, 184, 184);
+}
+
+.wi {
+    width: 100%;
+}

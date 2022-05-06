@@ -1,0 +1,29 @@
+.link {
+    text-decoration: none;
+    border-bottom  : 0;
+    color          : grey;
+    font-size      : 20px;
+}
+
+.link:hover {
+    color: grey;
+}
+
+.list {
+    width: 500px;
+}
+
+.first_block {
+    padding-top   : 30px;
+    padding-bottom: 30px;
+    border        : 2px solid rgb(60, 185, 60);
+    width         : auto;
+}
+
+.second-block {
+    padding-top  : 30px;
+    padding-left : 30px;
+    padding-right: 30px;
+    border       : 2px solid rgb(218, 211, 211);
+    width        : auto;
+}

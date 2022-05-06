@@ -1,0 +1,13 @@
+.text-decoration-none {
+    text-decoration: none;
+    color          : grey;
+}
+
+.text-decoration-none:hover {
+    color: grey;
+}
+
+article {
+    font-size : 19px;
+    text-align: justify;
+}

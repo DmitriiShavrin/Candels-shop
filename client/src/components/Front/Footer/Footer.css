@@ -1,0 +1,21 @@
+.inst {
+    border          : 1px solid grey;
+    border-radius   : 100%;
+    width           : 50px;
+    height          : 50px;
+    background-color: white;
+}
+
+.inst_svg {
+    color          : grey;
+    text-decoration: none;
+}
+
+.inst.inst_svg:hover {
+    background-color: grey;
+    color           : white;
+}
+
+/* .footer {
+    margin-top: calc(100vh - 392px)
+} */

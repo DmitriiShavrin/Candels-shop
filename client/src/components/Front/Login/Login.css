@@ -1,0 +1,11 @@
+.login_form {
+    background-image        : url(login.jpg);
+    background-size         : cover;
+    height                  : calc(100vh - 81px);
+    /* background-position-y: center; */
+    background-position     : 50% 92%;
+}
+
+.login {
+    padding: 80px 80px;
+}

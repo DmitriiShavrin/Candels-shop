@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@300&display=swap');
+
+.font_style {
+    font-family    : 'Noto Sans', sans-serif;
+    text-decoration: none;
+    color: rgb(102, 98, 98);
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.font_style:hover {
+    color:  rgb(63, 61, 61);
+}
